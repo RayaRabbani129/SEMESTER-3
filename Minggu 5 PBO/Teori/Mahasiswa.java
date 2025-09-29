@@ -1,4 +1,4 @@
-public class Mahasiswa extends Orang{
+public class Mahasiswa extends Orang1{
     private String nim;
 
     public Mahasiswa(String id, String nama, String nim){

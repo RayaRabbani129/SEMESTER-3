@@ -8,3 +8,4 @@ class Mahasiswa extends Manusia {
         System.out.println("Mahasiswa sedang tidur di kelas");
     }
 }
+    
